@@ -6,7 +6,7 @@ var http = require('http');
 var server = http.createServer(function (req,res) {
 console.log(req.url);
 
-debugger; 
+//debugger; 
 //this request is good and we have a response 
 res.writeHead(200,{
  'Content-Type': 'text/html'
