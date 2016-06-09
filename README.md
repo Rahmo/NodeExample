@@ -4,4 +4,4 @@
 
 git add README.md
 
-$git remote add origin ssh://rahmo@girhub.com:1234/NodeExample.git
+git remote add origin https://github.com/Rahmo/NodeExample.git
