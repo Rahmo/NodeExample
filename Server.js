@@ -1,3 +1,6 @@
+/* Low level server */
+
+
 // Load the modules 
 //Nodes ways to load modules 
 var http = require('http');
